@@ -2090,7 +2090,7 @@ blockquote {
     padding:150px 0;
 }
 
-form {
+form.maincontact {
     margin: 50px auto;
     width: calc(50% - 1.5em); 
     text-align: center;
