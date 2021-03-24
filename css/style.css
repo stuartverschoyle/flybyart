@@ -2209,7 +2209,7 @@ input[type="submit"], input[type="reset"], input[type="button"], button, .button
         max-width: 100px;    
     }   
 
-    form {
+    form.maincontact {
         margin: 50px auto;
         width: calc(100% - 1.5em); 
         text-align: center;
